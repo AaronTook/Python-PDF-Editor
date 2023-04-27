@@ -1,0 +1,17 @@
+{
+	"version": "1.3.2",
+	"launch_date": "4/26/2023",
+	"about": "Fixed formatting bug with update checker.",
+	
+	"current_directory": "",
+	
+	"all_versions":
+		[
+			{"version": "1.0.1", "launch date": "4/22/2023", "about": "Added original functionality and created console-based menu."},
+			{"version": "1.1.1", "launch date": "4/23/2023", "about": "Added \"encrypt\", \"decrypt\", \"re-encrypt\" functions and updated console-based menu."},
+			{"version": "1.2.1", "launch date": "4/25/2023", "about": "Added update checker, GUI file selection, and added data.json for version data storage."},
+			{"version":"1.2.2","launch date":"4/26/2023","about":"Fixed formatting bug with update checker."},
+			{"version": "1.3.1", "launch_date": "4/26/2023", "about": "Added file size reduction and settings for changing the output directory."},
+		],
+	"next_version": "1.3.2"
+}
