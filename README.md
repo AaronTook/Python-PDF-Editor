@@ -6,7 +6,7 @@ Python PDF Editor is a simple script to display a menu in the console or command
 To launch the console-based menu, run the app.py file from the command line, your IDE, or numerous other methods.
 
 ------------------------
-Project Requirements:
+Project Requirements (For Version 3.2.1):
   1. Must have PyPDF2 installed (https://pypdf2.readthedocs.io/en/latest/user/installation.html).
   2. Must have access to the following Python Standard Library modules:
       
